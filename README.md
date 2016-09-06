@@ -10,3 +10,4 @@ An example of a RESTful web services solution. It contains an ASP.net Web Api 2 
 * [Arreglar problemas de la BD](http://stackoverflow.com/questions/13275054/ef5-cannot-attach-the-file-0-as-database-1)
 * [Agregar documnetación en la pagina de ayuda del API](http://stackoverflow.com/questions/24284413/webapi-help-page-description)
 * [Agregar migraciones de la BD](http://www.asp.net/mvc/overview/older-versions/getting-started-with-aspnet-mvc4/adding-a-new-field-to-the-movie-model-and-table)
+* [Autenticación](http://www.asp.net/web-api/overview/security/individual-accounts-in-web-api)
