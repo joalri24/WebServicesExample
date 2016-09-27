@@ -13,6 +13,7 @@ An example of a RESTful web services solution. It contains an ASP.net Web Api 2 
 * [Autenticación](http://www.asp.net/web-api/overview/security/individual-accounts-in-web-api)
 * [Autenticación con Google+](http://stackoverflow.com/questions/21065648/asp-net-web-api-2-how-to-login-with-external-authentication-services)
 * [Cargar archivos al servidor](http://haacked.com/archive/2010/07/16/uploading-files-with-aspnetmvc.aspx/)
+* [Bases de datos más complejas](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-a-more-complex-data-model-for-an-asp-net-mvc-application)
 
 
 **Get the UserId in a controller of the web app:** var userId = User.Identity.GetUserId();
