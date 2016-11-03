@@ -21,3 +21,5 @@ An example of a RESTful web services solution. It contains an ASP.net Web Api 2 
 **Get the UserId in a controller of the web app:** var userId = User.Identity.GetUserId();
 
 **Print in the Console of ASP.net:** System.Diagnostics.Debug.WriteLine(...)
+
+**Mostar traza de errores en lugar de Error 500:** En Web.config --> \<System.Web\> --> \<CustomErrors mode="Off" />
