@@ -15,6 +15,7 @@ An example of a RESTful web services solution. It contains an ASP.net Web Api 2 
 * [Cargar archivos al servidor](http://haacked.com/archive/2010/07/16/uploading-files-with-aspnetmvc.aspx/)
 * [Bases de datos más complejas](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-a-more-complex-data-model-for-an-asp-net-mvc-application)
 * [Despliegue](https://www.asp.net/mvc/overview/deployment/visual-studio-web-deployment/introduction)
+* [Data reader debe ser cerrado antes de volver a usar o algo...](http://stackoverflow.com/questions/4867602/entity-framework-there-is-already-an-open-datareader-associated-with-this-comma)
 
 
 **Get the UserId in a controller of the web app:** var userId = User.Identity.GetUserId();
